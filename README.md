@@ -7,7 +7,7 @@
 - 💼 I build responsive and modern websites using HTML, CSS,  JavaScript and react 
 - 🚀 I’m working on exciting UI/UX-based projects to sharpen my design and logic
 - 📫 Reach me at: **https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox**
-- 🌐 Portfolio: [https://your-portfolio.netlify.app]([https://your-portfolio.netlify.app](https://information-appes.netlify.app/))
+- 🌐 Portfolio: [https://your-portfolio.netlify.app](https://information-appes.netlify.app/)
 
 ---
 
